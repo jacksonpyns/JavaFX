@@ -9,6 +9,23 @@
 }
 
 .numero {
-	-fx-text-fill: #0cf3e8;
+	-fx-text-fill: rgb(192, 192, 192);
 	-fx-font-size: 28px;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 30px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde {
+	-fx-text-fill: #00ff40;
+}
+
+.vermelho {
+	-fx-text-fill: #ff0000;
 }
